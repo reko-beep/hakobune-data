@@ -48,7 +48,24 @@ class DataClient:
             id_ = data_checker[0]['_id']
             collection = self.mongodbclient.collection('data', game_name)
 
-            collection.update_one({'_id': id_}, {'$set': {**{'type': data['type'], 'data_id': generate_id(data['name']), 'timestamp': datetime.now().strftime('%c')}, **data_}})
+            collection.update_one({'_id': id_}, {'$set': {**{'type': data['type'], 'data_id': generate_id(data['name']), 'timestamp': datetime.now().strftime('%c')}, **data}})
+
+        else:
+            
+            collection = self.mongodbclient.collection('data', game_name)
+            collection.insert_one({**{'type': data['type'], 'data_id': generate_id(data['name']), 'timestamp': datetime.now().strftime('%c')}, **data})
+    
+    def get_data(self, game_name: str, data_id : str):
+        
+        data_checker = self.data_id(game_name, data_id)
+        
+        if bool(data_checker):   
+            data_ = data_checker[0].copy()
+            data_.pop('_id')
+            return data_
+        
+        
+            
     
     def pending_update(self, game_name: str, data_id : str):
 

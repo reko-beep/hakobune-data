@@ -20,7 +20,7 @@ class BaseScraper:
 
     def __init__(self, client, url: URL) -> None:
         self.url = url
-        self.key = self.generate_id(self.url.path)
+        self.data_id = self.generate_id(self.url.path)
         self.data = {
 
         }    
@@ -56,7 +56,16 @@ class BaseScraper:
         
         else:
 
-            raise NotImplementedError
+            if self.client.pending_update('genshin', self.data):
+                
+                self._scrape()
+                self.client.save_data('genshin', self.data_id, {**{'type' : self.type} ,**self.data})
+                
+            else:
+                
+                self.data = self.client.get_data('genshin', self.data_id)
+                
+                
     
     def _scrape(self):
         
