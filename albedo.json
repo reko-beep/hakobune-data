@@ -1,0 +1,867 @@
+{
+ "name": "Albedo",
+ "image": {
+  "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+  "wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Character_Albedo_Full_Wish.png",
+  "game": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Character_Albedo_Game.png"
+ },
+ "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50",
+ "weapon": "Sword",
+ "element": "Geo",
+ "birthday": "September 13th",
+ "constellation": "Princeps Cretaceus",
+ "region": "Mondstadt",
+ "affiliation": [
+  "Knights of Favonius",
+  "Yae Publishing House"
+ ],
+ "dish": "Woodland Dream",
+ "obtain": "Event Wish - Secretum Secretorum",
+ "mother": "Rhinedottir (Creator)",
+ "siblings": "N/A",
+ "voiceEN": "Khoi Dao",
+ "voiceKR": "Kim Myung-jun (\uae40\uba85\uc900)",
+ "voiceCN": "Mace",
+ "voiceJP": "Nojima Kenji (\u91ce\u5cf6 \u5065\u5150)",
+ "ascension": {
+  "1": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "20,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+    "txt": "1",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "3",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Divining Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "txt": "3",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   }
+  ],
+  "2": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "40,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+    "txt": "3",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "10",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Divining Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "txt": "15",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "txt": "2",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   }
+  ],
+  "3": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "60,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+    "txt": "6",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "20",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Sealed Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "txt": "12",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "txt": "4",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   }
+  ],
+  "4": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "80,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "txt": "3",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "30",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Sealed Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "txt": "18",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "txt": "8",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   }
+  ],
+  "5": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "100,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "txt": "6",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "45",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Forbidden Curse Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "txt": "12",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "txt": "12",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   }
+  ],
+  "6": [
+   {
+    "title": "Mora",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "txt": "120,000",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "txt": "6",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "txt": "60",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Forbidden Curse Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "txt": "24",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "txt": "20",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   }
+  ],
+  "total": [
+   {
+    "title": "Mora",
+    "txt": 420000,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Sliver",
+    "txt": 1,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Cecilia",
+    "txt": 168,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Divining Scroll",
+    "txt": 18,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Fragment",
+    "txt": 9,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Basalt Pillar",
+    "txt": 46,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   },
+   {
+    "title": "Sealed Scroll",
+    "txt": 30,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Chunk",
+    "txt": 9,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   },
+   {
+    "title": "Forbidden Curse Scroll",
+    "txt": 36,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Prithiva Topaz Gemstone",
+    "txt": 6,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+   }
+  ]
+ },
+ "talent_upgrade": {
+  "2": [
+   {
+    "level": 2,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "12,500",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Divining Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+      "txt": "6",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+     },
+     {
+      "title": "Teachings of Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+      "txt": "3",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+     }
+    ]
+   }
+  ],
+  "3": [
+   {
+    "level": 3,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "17,500",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Sealed Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+      "txt": "3",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+     },
+     {
+      "title": "Guide to Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+      "txt": "2",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     }
+    ]
+   },
+   {
+    "level": 4,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "25,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Sealed Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+      "txt": "4",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+     },
+     {
+      "title": "Guide to Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+      "txt": "4",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     }
+    ]
+   }
+  ],
+  "4": [
+   {
+    "level": 5,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "30,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Sealed Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+      "txt": "6",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+     },
+     {
+      "title": "Guide to Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+      "txt": "6",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     }
+    ]
+   },
+   {
+    "level": 6,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "37,500",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Sealed Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+      "txt": "9",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+     },
+     {
+      "title": "Guide to Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+      "txt": "9",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     }
+    ]
+   }
+  ],
+  "5": [
+   {
+    "level": 7,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "120,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Forbidden Curse Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+      "txt": "4",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Philosophies of Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+      "txt": "4",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+     },
+     {
+      "title": "Tusk of Monoceros Caeli",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+      "txt": "1",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+     }
+    ]
+   },
+   {
+    "level": 8,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "260,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Forbidden Curse Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+      "txt": "6",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Philosophies of Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+      "txt": "6",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+     },
+     {
+      "title": "Tusk of Monoceros Caeli",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+      "txt": "1",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+     }
+    ]
+   }
+  ],
+  "6": [
+   {
+    "level": 9,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "450,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Forbidden Curse Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+      "txt": "9",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Philosophies of Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+      "txt": "12",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+     },
+     {
+      "title": "Tusk of Monoceros Caeli",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+      "txt": "2",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+     }
+    ]
+   },
+   {
+    "level": 10,
+    "mats": [
+     {
+      "title": "Mora",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+      "txt": "700,000",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Forbidden Curse Scroll",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+      "txt": "12",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+     },
+     {
+      "title": "Philosophies of Ballad",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+      "txt": "16",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+     },
+     {
+      "title": "Tusk of Monoceros Caeli",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+      "txt": "2",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+     },
+     {
+      "title": "Crown of Insight",
+      "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+      "txt": "1",
+      "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+     }
+    ]
+   }
+  ],
+  "total": [
+   {
+    "title": "Mora",
+    "txt": 1652500,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Divining Scroll",
+    "txt": 6,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+   },
+   {
+    "title": "Teachings of Ballad",
+    "txt": 3,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Sealed Scroll",
+    "txt": 22,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+   },
+   {
+    "title": "Guide to Ballad",
+    "txt": 21,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Forbidden Curse Scroll",
+    "txt": 31,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+   },
+   {
+    "title": "Philosophies of Ballad",
+    "txt": 38,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+   },
+   {
+    "title": "Tusk of Monoceros Caeli",
+    "txt": 6,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+   },
+   {
+    "title": "Crown of Insight",
+    "txt": 1,
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png"
+   }
+  ]
+ },
+ "leveling_usage": [
+  {
+   "level": 20,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 6,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 0,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 1,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 24200,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 825,
+   "xp_req": 120175
+  },
+  {
+   "level": 40,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 28,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 3,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 4,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 115800,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 675,
+   "xp_req": 578325
+  },
+  {
+   "level": 50,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 28,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 3,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 5,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 116000,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 900,
+   "xp_req": 579100
+  },
+  {
+   "level": 60,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 42,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 2,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 5,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 171000,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 875,
+   "xp_req": 854125
+  },
+  {
+   "level": 70,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 59,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 3,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 1,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 239200,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 75,
+   "xp_req": 1195925
+  },
+  {
+   "level": 80,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 80,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 2,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 2,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 322400,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 125,
+   "xp_req": 1611875
+  },
+  {
+   "level": 90,
+   "cards": [
+    {
+     "title": "Hero's Wit",
+     "txt": 418,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png"
+    },
+    {
+     "title": "Adventurer's EXP",
+     "txt": 0,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png"
+    },
+    {
+     "title": "Wanderer's Advice",
+     "txt": 3,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png"
+    },
+    {
+     "title": "Mora",
+     "txt": 1672600,
+     "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+     "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png"
+    }
+   ],
+   "xp_wasted": 350,
+   "xp_req": 8362650
+  }
+ ],
+ "talents": [
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  },
+  {
+   "description": "9 \u2192 10700,000[1,652,500] 700,000 [1,652,500]12[31] 12 [31]16[38] 16 [38]2[6] 2 [6]1[1] 1 [1]"
+  }
+ ],
+ "constellations": [
+  {
+   "name": "Flower of Eden",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Constellation_Flower_of_Eden.png",
+   "level": "1",
+   "description": "Transient Blossoms generated by Albedo's Abiogenesis: Solar Isotoma regenerate 1.2 Energy for Albedo.\n"
+  },
+  {
+   "name": "Opening of Phanerozoic",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Constellation_Opening_of_Phanerozoic.png",
+   "level": "2",
+   "description": "Transient Blossoms generated by Abiogenesis: Solar Isotoma grant Albedo Fatal Reckoning for 30s:\nUnleashing Rite of Progeniture: Tectonic Tide consumes all stacks of Fatal Reckoning. Each stack of Fatal Reckoning consumed increases the DMG dealt by Fatal Blossoms and Rite of Progeniture: Tectonic Tide's burst DMG by 30% of Albedo's DEF.\nThis effect stacks up to 4 times.\n\nHover over previews to view in higher quality.(Preview Preferences)Media:Constellation Opening of Phanerozoic.ogv    Stack Indicator  \n"
+  },
+  {
+   "name": "Grace of Helios",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Constellation_Grace_of_Helios.png",
+   "level": "3",
+   "description": "Increases the Level of Abiogenesis: Solar Isotoma by 3.Maximum upgrade level is 15.\n"
+  },
+  {
+   "name": "Descent of Divinity",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Constellation_Descent_of_Divinity.png",
+   "level": "4",
+   "description": "Active party members within the Solar Isotoma field have their Plunging Attack DMG increased by 30%.\n"
+  },
+  {
+   "name": "Tide of Hadean",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Constellation_Tide_of_Hadean.png",
+   "level": "5",
+   "description": "Increases the Level of Rite of Progeniture: Tectonic Tide by 3.Maximum upgrade level is 15.\n"
+  },
+  {
+   "name": "Dust of Purification",
+   "icon": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Constellation_Dust_of_Purification.png",
+   "level": "6",
+   "description": "Active party members within the Solar Isotoma field who are protected by a shield created by Crystallize have their DMG increased by 17%.\n"
+  }
+ ]
+}
