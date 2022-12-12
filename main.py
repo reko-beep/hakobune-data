@@ -34,7 +34,7 @@ class DataClient:
         
 
         if self.game_exists(game_name):
-            filters = {'data_id': data_id, '_id': 1}
+            filters = {'data_id': data_id}
             
             if len(kwargs) != 0:
                 filters = {**filters, **kwargs}
@@ -66,18 +66,20 @@ class DataClient:
             data_.pop('_id')
             return data_
         
-        
+    @property
+    def timestamp(self):
+        return datetime.now()
             
     
     def pending_update(self, game_name: str, data_id : str):
 
         data_checker = self.data_id(game_name, data_id)
-
+        print(data_checker[0])
         if bool(data_checker):    
 
-            timestamp_last = datetime.strptime(data_checker['timestamp'], '%c')
+            timestamp_last = datetime.strptime(data_checker[0]['timestamp'], '%c')
 
-            return (self.timestamp - timestamp_last).total_seconds() > self.check_interval[data_checker['type']]
+            return (self.timestamp - timestamp_last).total_seconds() > self.check_interval[data_checker[0]['type']]
         
         else:
 

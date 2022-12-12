@@ -18,7 +18,6 @@ class CharacterScraper(BaseScraper):
         super().__init__( client, url)
         
         self.type = 'characters'
-        print(kwargs)
         self.__dict__.update(kwargs)
         
 
@@ -131,22 +130,24 @@ class CharacterScraper(BaseScraper):
         data =  [CharacterEXPFilter(d).cards for d in levels]
 
         self.data['leveling_usage'] = data
+        t_init = bs.find('div', {'class': 'talent-table-container'})
+        table_ = None
+        if t_init is not None:
+            table_ = t_init.find('table')
+       
 
-        table = self.get_table(bs, 'Talents')
         self.data['talents'] = []
-        if table is not None:
+        if table_ is not None:
             
-            rows = list(table.find('tr').find_next_siblings())
+            rows = list(table_.find_all('tr'))
             talent = {}
             for row in rows:
                 
                 cols = row.find_all("td")
-                
                 if len(cols) == 3:
 
                     if len(talent) != 0:
                         talent = dict()
-
                     icon = self.find_image(cols[0])
                     name = cols[1].text.strip()
                     type_ = cols[2].text.strip()
@@ -157,16 +158,7 @@ class CharacterScraper(BaseScraper):
                     talent['description'] =  ''
                     
                 else:
-                    text = row.text
-                    gameplay_text = row.find('div', {'data-expandtext': '▼Gameplay Notes▼'}).text if row.find('div', {'data-expandtext': '▼Gameplay Notes▼'}) is not None else ''
-                    ats_text = row.find('div', {'data-expandtext': '▼Attribute Scaling▼'}).text if row.find('div', {'data-expandtext': '▼Attribute Scaling▼'}) is not None else ''
-                    preview_text = row.find('div', {'data-expandtext': '▼Preview▼'}).text if row.find('div', {'data-expandtext': '▼Preview▼'}) is not None else ''
-                    bolds = row.find_all('b')
-                    text = text.replace(gameplay_text,'', 1).replace(ats_text,'', 1).replace(preview_text,'',1)
-                    for b in bolds:
-                        text = text.replace(b.text, f'**{b.text}**\n',1)
-                    talent['description'] = text
-
+                    
                     previews = row.find('div', {'data-expandtext': '▼Preview▼'}) if row.find('div', {'data-expandtext': '▼Preview▼'}) is not None else None
                  
                     if previews is not None:
@@ -179,7 +171,22 @@ class CharacterScraper(BaseScraper):
                             img = self.find_image(prevgif)
                             talent['previews'].append({'text': text, 'img': img})
                     
-                    self.data['talents'].append(talent)
+                    bolds = row.find_all('b')
+                    if row.find('div', {'data-expandtext': '▼Gameplay Notes▼'}) is not None:
+                        row.find('div', {'data-expandtext': '▼Gameplay Notes▼'}).decompose()
+                    if row.find('div', {'data-expandtext': '▼Attribute Scaling▼'}) is not None:
+                        row.find('div', {'data-expandtext': '▼Attribute Scaling▼'}).decompose()
+                    if row.find('div', {'data-expandtext': '▼Preview▼'}) is not None:
+                        row.find('div', {'data-expandtext': '▼Preview▼'}).decompose()
+                    text = row.text
+                    for b in bolds:
+                        text = text.replace(b.text, f'**{b.text}**\n',1)
+                    
+                    talent['description'] = text
+
+                    
+                    if talent not in self.data['talents']:
+                        self.data['talents'].append(talent)
 
         table = self.get_table(bs, 'Constellation')
         self.data['constellations'] = []

@@ -54,6 +54,8 @@ class BaseScraper:
 
         if force:
             self._scrape()
+            
+            self.client.save_data('genshin', self.data_id, {**{'type' : self.type, 'data_id': self.data_id} ,**self.data})
         
         else:
 
@@ -61,10 +63,12 @@ class BaseScraper:
                 
                 self._scrape()
                 self.client.save_data('genshin', self.data_id, {**{'type' : self.type, 'data_id': self.data_id} ,**self.data})
+                logc('data is pending update, updating data!')
                 
             else:
                 
                 self.data = self.client.get_data('genshin', self.data_id)
+                logc('loaded saved data')
                 
                 
     
@@ -215,11 +219,12 @@ class BaseScraper:
         element = bs.find('span', {'id': id_})
         if element is not None:
 
-            element = element.parent.find_next_sibling()
+            element = element.parent.find_next_sibling()            
+           
             while element.name != 'table':
                 element = element.find_next_sibling()
-            else:
-                return element
+            
+            return element
 
     def get_card_info(self, card_container_div: typing.Union[Tag, NavigableString]):
         
