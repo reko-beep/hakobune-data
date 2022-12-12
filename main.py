@@ -2,7 +2,7 @@ from database import BotDatabase
 from datetime import datetime
 from requests_cache import CachedSession
 from utils import generate_id
-
+from scrapers.clients.genshin import GenshinMain
 class DataClient:
 
     def __init__(self, database: BotDatabase) -> None:
@@ -13,7 +13,7 @@ class DataClient:
             'characters' : 86400 * 30 #after a month
         }
         self._session = CachedSession(
-                            cache_name='data.client',
+                            cache_name='data_client',
                             backend='mongodb',
                             expire_after=7200,
                             serializer='pickle',
@@ -21,7 +21,7 @@ class DataClient:
                             stale_if_error=True
         )
 
-
+        self.genshin = GenshinMain(self)
 
     def game_exists(self, game_name: str):
 
@@ -31,11 +31,13 @@ class DataClient:
 
     def data_id(self, game_name: str, data_id : str, **kwargs):
 
-        kwargs.setdefault({''})
+        
 
         if self.game_exists(game_name):
-            filters = {'data_id': data_id}, {'_id': 1}
-            filters = {**filters, **kwargs}
+            filters = {'data_id': data_id, '_id': 1}
+            
+            if len(kwargs) != 0:
+                filters = {**filters, **kwargs}
             checker = list(self.db.get_collection(game_name).find(filters))
             return checker 
     
@@ -80,4 +82,5 @@ class DataClient:
         else:
 
             return True
+        
 

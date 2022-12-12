@@ -11,7 +11,7 @@ from PIL import Image, ImageChops, ImageOps, ImageDraw, ImageFont, ImageFilter
 import requests
 from io import BytesIO
 from colorthief import ColorThief
-
+import string
 
 
 import random
@@ -485,7 +485,7 @@ def generate_id(string_ : str):
         
         '''
 
-        return string_.replace('_',' ',99).translate(string_.maketrans('', '', punctuation)).replace('%20', '',99).replace('%27', '', 99).replace(' ','_',99).lower()
+        return string_.replace('_',' ',99).translate(string_.maketrans('', '', string.punctuation)).replace('%20', '',99).replace('%27', '', 99).replace(' ','_',99).lower()
 
 
 

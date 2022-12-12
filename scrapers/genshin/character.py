@@ -14,12 +14,12 @@ from os.path import exists
 
 class CharacterScraper(BaseScraper):
 
-    def __init__(self,   client,  url: URL) -> None:
+    def __init__(self,   client,  url: URL, **kwargs) -> None:
         super().__init__( client, url)
         
         self.type = 'characters'
-
-        self.schema = ['element', 'nation', 'rarity']
+        print(kwargs)
+        self.__dict__.update(kwargs)
         
 
   
@@ -214,10 +214,7 @@ class CharacterScraper(BaseScraper):
             '''
             
 
-    @BaseScraper.validator
-    def data_validate(self):
-        print(self.name, 'validated according to', self.schema)
-
+ 
 
 
 

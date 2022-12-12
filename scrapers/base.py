@@ -18,7 +18,7 @@ class BaseScraper:
     
     '''
 
-    def __init__(self, client, url: URL) -> None:
+    def __init__(self, client, url: URL, **kwargs) -> None:
         self.url = url
         self.data_id = self.generate_id(self.url.path)
         self.data = {
@@ -27,6 +27,7 @@ class BaseScraper:
         self.type = 'misc'
         from main import DataClient
         self.client : DataClient = client
+        self.__dict__.update(**kwargs)
         
    
     @property
@@ -56,10 +57,10 @@ class BaseScraper:
         
         else:
 
-            if self.client.pending_update('genshin', self.data):
+            if self.client.pending_update('genshin', self.data_id):
                 
                 self._scrape()
-                self.client.save_data('genshin', self.data_id, {**{'type' : self.type} ,**self.data})
+                self.client.save_data('genshin', self.data_id, {**{'type' : self.type, 'data_id': self.data_id} ,**self.data})
                 
             else:
                 
@@ -89,6 +90,7 @@ class BaseScraper:
 
 
     def __repr__(self):
+        
         dict_ = ' '.join([f'{k}={self.__dict__[k]}' for k in self.__dict__])
         return f'<{self.__class__.__name__} {dict_}>'
 
