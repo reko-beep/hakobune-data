@@ -7,6 +7,7 @@ client = DataClient(db)
 
 list_ = client.genshin.get_characters()
 
-list_[0].fetch()
 
-print(list_[0].data)
+list_[2].fetch(True)
+
+print(list_[2].data)
