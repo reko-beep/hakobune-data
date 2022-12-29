@@ -1,0 +1,1595 @@
+{
+ "ascension_gems": {
+  "brilliant diamond": [
+   {
+    "title": "Brilliant Diamond Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Brilliant Diamond Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Brilliant_Diamond_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Brilliant Diamond Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Brilliant_Diamond_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Brilliant Diamond Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "agnidus agate": [
+   {
+    "title": "Agnidus Agate Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Agnidus Agate Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Agnidus_Agate_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Agnidus Agate Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Agnidus_Agate_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Agnidus Agate Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Agnidus_Agate_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "varunada lazurite": [
+   {
+    "title": "Varunada Lazurite Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Varunada Lazurite Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Varunada_Lazurite_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Varunada Lazurite Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Varunada_Lazurite_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Varunada Lazurite Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Varunada_Lazurite_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "nagadus emerald": [
+   {
+    "title": "Nagadus Emerald Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Nagadus_Emerald_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Nagadus Emerald Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Nagadus_Emerald_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Nagadus Emerald Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Nagadus_Emerald_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Nagadus Emerald Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Nagadus_Emerald_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "vajrada amethyst": [
+   {
+    "title": "Vajrada Amethyst Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Vajrada Amethyst Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Vajrada_Amethyst_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Vajrada Amethyst Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Vajrada_Amethyst_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Vajrada Amethyst Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "vayuda turquoise": [
+   {
+    "title": "Vayuda Turquoise Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Vayuda Turquoise Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Vayuda Turquoise Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Vayuda Turquoise Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "shivada jade": [
+   {
+    "title": "Shivada Jade Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Shivada Jade Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Shivada Jade Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Shivada Jade Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Shivada_Jade_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ],
+  "prithiva topaz": [
+   {
+    "title": "Prithiva Topaz Sliver",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+    "txt": "Sliver",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Prithiva Topaz Fragment",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+    "txt": "Fragment",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Prithiva Topaz Chunk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "txt": "Chunk",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   },
+   {
+    "title": "Prithiva Topaz Gemstone",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "txt": "Gemstone",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+    "rarity": 5
+   }
+  ]
+ },
+ "common_boss_materials": [
+  {
+   "title": "Hurricane Seed",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Hurricane_Seed.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Lightning Prism",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Basalt Pillar",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Hoarfrost Core",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Hoarfrost_Core.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Everflame Seed",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Cleansing Heart",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Juvenile Jade",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Juvenile_Jade.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Crystalline Bloom",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Crystalline_Bloom.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Marionette Core",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Marionette_Core.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Perpetual Heart",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Smoldering Pearl",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Smoldering_Pearl.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Dew of Repudiation",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Dew_of_Repudiation.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Storm Beads",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Riftborn Regalia",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Riftborn_Regalia.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Dragonheir's False Fin",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Runic Fang",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Item_Runic_Fang.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Majestic Hooked Beak",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Majestic_Hooked_Beak.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Thunderclap Fruitcore",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Thunderclap_Fruitcore.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Perpetual Caliber",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Perpetual_Caliber.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Light Guiding Tetrahedron",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Light_Guiding_Tetrahedron.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  },
+  {
+   "title": "Quelled Creeper",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/12/Item_Quelled_Creeper.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+   "rarity": 4
+  }
+ ],
+ "local_specialities": [
+  {
+   "title": "Calla Lily",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Wolfhook",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Valberry",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Cecilia",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Windwheel Aster",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Philanemo Mushroom",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Small Lamp Grass",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Dandelion Seed",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Jueyun Chili",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Noctilucous Jade",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Silk Flower",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Glaze Lily",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Qingxin",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Starconch",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Violetgrass",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Cor Lapis",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Onikabuto",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Sakura Bloom",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Crystal Marrow",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Dendrobium",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Naku Weed",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Sea Ganoderma",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Sango Pearl",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Amakumo Fruit",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Fluorescent Fungus",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Rukkhashava Mushrooms",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Rukkhashava_Mushrooms.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Padisarah",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Padisarah.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Nilotpala Lotus",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Nilotpala_Lotus.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Kalpalata Lotus",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Kalpalata_Lotus.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Henna Berry",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Henna_Berry.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  },
+  {
+   "title": "Scarab",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Scarab.png",
+   "txt": "\u2014",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+   "rarity": 0
+  }
+ ],
+ "common_enemy_drops": {
+  "slimeslimes": [
+   {
+    "title": "Slime Condensate",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Slime Secretions",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Slime_Secretions.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Slime Concentrate",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Slime_Concentrate.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "hilichurlmasks": [
+   {
+    "title": "Damaged Mask",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Stained Mask",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Ominous Mask",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Ominous_Mask.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "samachurlscrolls": [
+   {
+    "title": "Divining Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Sealed Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Forbidden Curse Scroll",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "hilichurlarrowheads": [
+   {
+    "title": "Firm Arrowhead",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Sharp Arrowhead",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Weathered Arrowhead",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Weathered_Arrowhead.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "fatuiinsignia": [
+   {
+    "title": "Recruit's Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Sergeant's Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Lieutenant's Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "treasurehoarderinsignias": [
+   {
+    "title": "Treasure Hoarder Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Silver Raven Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Golden Raven Insignia",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "whopperflowernectars": [
+   {
+    "title": "Whopperflower Nectar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Shimmering Nectar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Energy Nectar",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "nobushihandguards": [
+   {
+    "title": "Old Handguard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Kageuchi Handguard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Famed Handguard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Famed_Handguard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "spectralcores": [
+   {
+    "title": "Spectral Husk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Spectral Heart",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Spectral Nucleus",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Spectral_Nucleus.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "fungalsporepowder": [
+   {
+    "title": "Fungal Spores",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Fungal_Spores.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Luminescent Pollen",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Luminescent_Pollen.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Crystalline Cyst Dust",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Crystalline_Cyst_Dust.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ],
+  "red cloth": [
+   {
+    "title": "Faded Red Satin",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Faded_Red_Satin.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Rarity_1_background.png",
+    "rarity": 1
+   },
+   {
+    "title": "Trimmed Red Silk",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Item_Trimmed_Red_Silk.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Rich Red Brocade",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Rich_Red_Brocade.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   }
+  ]
+ },
+ "elite_enemy_drops": {
+  "hilichurl horns": [
+   {
+    "title": "Heavy Horn",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Black Bronze Horn",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Black Crystal Horn",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "ley line branches": [
+   {
+    "title": "Dead Ley Line Branch",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Dead Ley Line Leaves",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Ley Line Sprout",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "chaos parts": [
+   {
+    "title": "Chaos Device",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Chaos Circuit",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Chaos Core",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "mist grasses": [
+   {
+    "title": "Mist Grass Pollen",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Mist Grass",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Mist Grass Wick",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "sacrificial knives": [
+   {
+    "title": "Hunter's Sacrificial Knife",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Agent's Sacrificial Knife",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Agent%27s_Sacrificial_Knife.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Inspector's Sacrificial Knife",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Inspector%27s_Sacrificial_Knife.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "bone shards": [
+   {
+    "title": "Fragile Bone Shard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Sturdy Bone Shard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Fossilized Bone Shard",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Fossilized_Bone_Shard.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "sentinel chaos parts": [
+   {
+    "title": "Chaos Gear",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Chaos Axis",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Chaos Oculus",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Chaos_Oculus.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "mirror maiden prisms": [
+   {
+    "title": "Dismal Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Crystal Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Polarizing Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "concealed riftwolf claws": [
+   {
+    "title": "Concealed Claw",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Concealed Unguis",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Concealed_Unguis.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Concealed Talon",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "statuettes": [
+   {
+    "title": "Gloomy Statuette",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Gloomy_Statuette.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Dark Statuette",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Dark_Statuette.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Deathly Statuette",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Deathly_Statuette.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "fungal nuclei": [
+   {
+    "title": "Inactivated Fungal Nucleus",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Inactivated_Fungal_Nucleus.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Dormant Fungal Nucleus",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Dormant_Fungal_Nucleus.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Robust Fungal Nucleus",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Robust_Fungal_Nucleus.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "drake chaos parts": [
+   {
+    "title": "Chaos Storage",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Chaos_Storage.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Chaos Module",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Module.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Chaos Bolt",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Item_Chaos_Bolt.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "primal construct prisms": [
+   {
+    "title": "Damaged Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Damaged_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Turbid Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Turbid_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Radiant Prism",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Radiant_Prism.png",
+    "txt": "\u2014",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ]
+ },
+ "talent_level_up_materials": {
+  "freedom": [
+   {
+    "title": "Teachings of Freedom",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Freedom",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Guide_to_Freedom.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Freedom",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Philosophies_of_Freedom.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "resistance": [
+   {
+    "title": "Teachings of Resistance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Resistance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Guide_to_Resistance.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Resistance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "ballad": [
+   {
+    "title": "Teachings of Ballad",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Ballad",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Guide_to_Ballad.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Ballad",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "prosperity": [
+   {
+    "title": "Teachings of Prosperity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Prosperity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Prosperity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Philosophies_of_Prosperity.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "diligence": [
+   {
+    "title": "Teachings of Diligence",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Diligence",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Guide_to_Diligence.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Diligence",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "gold": [
+   {
+    "title": "Teachings of Gold",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Gold",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Guide_to_Gold.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Gold",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "transience": [
+   {
+    "title": "Teachings of Transience",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Transience",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Guide_to_Transience.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Transience",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "elegance": [
+   {
+    "title": "Teachings of Elegance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Elegance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Guide_to_Elegance.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Elegance",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "light": [
+   {
+    "title": "Teachings of Light",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Light",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Guide_to_Light.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Light",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "admonition": [
+   {
+    "title": "Teachings of Admonition",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Teachings_of_Admonition.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Admonition",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Guide_to_Admonition.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Admonition",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Philosophies_of_Admonition.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "ingenuity": [
+   {
+    "title": "Teachings of Ingenuity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Teachings_of_Ingenuity.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Ingenuity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Item_Guide_to_Ingenuity.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Ingenuity",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Item_Philosophies_of_Ingenuity.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ],
+  "praxis": [
+   {
+    "title": "Teachings of Praxis",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Teachings_of_Praxis.png",
+    "txt": "DL I+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Rarity_2_background.png",
+    "rarity": 2
+   },
+   {
+    "title": "Guide to Praxis",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Item_Guide_to_Praxis.png",
+    "txt": "DL II+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png",
+    "rarity": 3
+   },
+   {
+    "title": "Philosophies of Praxis",
+    "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Item_Philosophies_of_Praxis.png",
+    "txt": "DL IV+",
+    "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png",
+    "rarity": 4
+   }
+  ]
+ },
+ "weekly_boss_materials": [
+  {
+   "title": "Dvalin's Plume",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
+   "txt": "DL IV+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Dvalin's Claw",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+   "txt": "DL IV+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Dvalin's Sigh",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+   "txt": "DL IV+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Tail of Boreas",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
+   "txt": "WL 5+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Ring of Boreas",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+   "txt": "WL 5+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Spirit Locket of Boreas",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+   "txt": "WL 5+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Tusk of Monoceros Caeli",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Shard of a Foul Legacy",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Shadow of the Warrior",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Shadow_of_the_Warrior.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Dragon Lord's Crown",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Bloodjade Branch",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Gilded Scale",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Gilded_Scale.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Molten Moment",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Molten_Moment.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Hellfire Butterfly",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Hellfire_Butterfly.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Ashen Heart",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Ashen_Heart.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Mudra of the Malefic General",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Tears of the Calamitous God",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Tears_of_the_Calamitous_God.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "The Meaning of Aeons",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Puppet Strings",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Puppet_Strings.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Mirror of Mushin",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Mirror_of_Mushin.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  },
+  {
+   "title": "Daka's Bell",
+   "img": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Item_Daka%27s_Bell.png",
+   "txt": "DL II+",
+   "card_bg": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png",
+   "rarity": 5
+  }
+ ]
+}

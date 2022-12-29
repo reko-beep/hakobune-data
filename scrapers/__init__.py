@@ -1,2 +1,0 @@
-
-from scrapers.base import *
