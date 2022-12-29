@@ -2,6 +2,7 @@
 import string
 from bs4 import BeautifulSoup, Tag, NavigableString
 import typing
+from routes import ROUTES
 
 def generate_key(text: str):
     
@@ -262,6 +263,26 @@ def find_text(element: typing.Union[Tag, NavigableString]) -> str:
     
     if element is not None:         
         return element.text.strip()
+  
+    
+    return 'Nothing Found'
+
+def find_url(element: typing.Union[Tag, NavigableString]) -> str:
+    """function returns a text within the Tag element
+
+    Args:
+        element (typing.Union[Tag, NavigableString]): an element object returned with find or find_all
+        
+
+    Returns:
+        str : text
+    """    
+    
+    
+    
+    if element is not None:         
+        if element.find('a') is not None:
+            return element.find('a').attrs['href'].replace('/wiki/', '', 1)
   
     
     return 'Nothing Found'
