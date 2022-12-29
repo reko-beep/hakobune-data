@@ -1,8 +1,8 @@
-![Logo](https://github.com/reko-beep/hakobune-datahttps://github.com/reko-beep/teyvat-akademia-data/blob/master/logo.png?raw=tru)
+![Logo](https://github.com/reko-beep/hakobune-data/blob/master/logo.png?raw=true)
 
 # Hakobune Data
 
-Data repository containing data to be used by [discord bot](https://github.com/reko-beep/teyvat-akademia)
+Data repository containing data to be used by [discord bot](https://github.com/reko-beep/hakobune)
 
 # Work in Progress
 
